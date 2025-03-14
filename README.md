@@ -1,7 +1,5 @@
 # Peer-to-Peer Network Messaging System  
 
-## **Project Description**  
-
 This **Peer-to-Peer (P2P) Network Messaging System** is a **Python-based** application that enables direct communication between devices on the **same local network** without requiring internet access.  
 
 The system uses **broadcast IP** to allow devices to discover and exchange messages dynamically. Since the program runs from a **single Python script**, it is easy to deploy on multiple devices.  
