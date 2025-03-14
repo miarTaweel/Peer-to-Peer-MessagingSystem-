@@ -20,13 +20,6 @@ The system uses **broadcast IP** to allow devices to discover and exchange messa
 3. **Messages are broadcasted to all devices** running the script.  
 4. **Each device displays incoming messages** in real-time.  
 
-## Example Usage
-
-The devices down below are connected to the same local network , adn were able to exchange messages after the compilation of the python code:
-
-<div align="center">
- <img src="Example.png" alt="Example" width="600"/>
-</div>
 
 ## Contact
 
