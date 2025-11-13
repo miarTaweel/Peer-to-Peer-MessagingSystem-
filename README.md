@@ -15,7 +15,7 @@ The system uses **broadcast IP** to allow devices to discover and exchange messa
 
 ## **How It Works**  
 
-1. **Users enter the broadcast IP of their network in the python code** (e.g., `192.168.1.255`).  
+1. **Users enter the broadcast IP of their network in the python code** (e.g., `192.188.1.255`).  
 2. **After Compillation the script listens and can send messages** from any device on the network.  
 3. **Messages are broadcasted to all devices** running the script.  
 4. **Each device displays incoming messages** in real-time.  
